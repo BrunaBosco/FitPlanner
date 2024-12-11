@@ -7,3 +7,4 @@
     <img aling="center" alt="JAVA"src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
 
+## Grupo formado por: Bruna Bosco, Weslley Ribas, Matheus Lira, Kauane Neres, Fernando, Pedro Pinho, Victor Diniz, William Marques.
